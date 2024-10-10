@@ -1,0 +1,9 @@
+DOMAIN-SUFFIX,crunchyroll.com
+DOMAIN-SUFFIX,crunchyrollsvc.com
+DOMAIN-SUFFIX,vrv.co
+DOMAIN-SUFFIX,a-vrv.akamaized.net
+DOMAIN-SUFFIX,crunchyrollcdn.com
+# API
+DOMAIN-SUFFIX,e0vemjple0l1luii7h5vlu5no.litix.io
+##DOMAIN-SUFFIX,aax-ott-c2s.amazon-adsystem.com
+##DOMAIN-SUFFIX,sdk-api-v1.singular.net
